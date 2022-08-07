@@ -1,4 +1,4 @@
-# UEElementusInventory_Example
+# Unreal Engine Project: UEElementusInventory_Example
 
 ![image](https://user-images.githubusercontent.com/77353979/183305248-f987ea33-dc83-4074-ba6a-2799b19de3e4.png)
 
