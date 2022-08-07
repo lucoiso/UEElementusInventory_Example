@@ -1,0 +1,3 @@
+[submodule "Plugins/UEElementusInventory"]
+	path = Plugins/UEElementusInventory
+	url = https://github.com/lucoiso/UEElementusInventory
