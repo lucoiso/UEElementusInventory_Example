@@ -4,6 +4,18 @@
 
 Simple example project created to demonstrate the features of the [Elementus Inventory plugin](https://github.com/lucoiso/UEElementusInventory)
 
+
+## Dependencies:
+* Unreal Engine 5.1
+* Elementus Inventory Plugin (Added as submodule)
+
+## Cloning this repository
+```
+git clone https://github.com/lucoiso/UEElementusInventory_Example.git
+cd UEElementusInventory_Example
+git submodule update --init
+```
+
 ## Links
 
 * [Unreal Engine Forum](https://forums.unrealengine.com/t/free-elementus-inventory-data-driven-inventory-system/617474?u=lucoiso)
