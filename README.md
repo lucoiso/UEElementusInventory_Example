@@ -4,7 +4,6 @@
 
 Simple example project created to demonstrate the features of the [Elementus Inventory plugin](https://github.com/lucoiso/UEElementusInventory)
 
-
 ## Dependencies:
 * Unreal Engine 5.1
 * Elementus Inventory Plugin (Added as submodule)
